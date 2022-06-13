@@ -25,8 +25,8 @@ Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack M
 
  Full Stack MERN Application - from start to finish. 
 
- The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
- with real app features like user authentication and social login using Google accounts.
+ The App is called "Mediabook" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+ with real app features like user authentication and social login using Google accounts and email.
 
 
 <h1></h1>
@@ -44,14 +44,14 @@ Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack M
 #### Project methodology
 
 - **Login and Logout system**
-  - Every user has to log in with google accounts to post the memories.
+  - Every user has to log in with google accounts to post the media.
   - Once the user is logged in, the user will able to use all the features of the app.
   - If the user has not logged in, the user will only be able to view/see  posts from the other users.
   - That is if the user has not logged in, user will not able to access all the potential features of the app.
   
 - **Product life cycle**
   - A user will log in into the app with their Google accounts
-  - A user will post their memories through the form "Creating a Memory".
+  - A user will post their memories through the form "Creating a Post".
   - After posting the memories. memories will appear on the memories section of the app.
   - From the memories section of the app, all users of the app  will be able to see all the posts posted.  
   - Any user can like and comment on the posts that are posted on the app.
