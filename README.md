@@ -1,6 +1,6 @@
 # Memories
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+![Memories](https://ibb.co/1rf4gXM)
 
 ## Introduction
 
