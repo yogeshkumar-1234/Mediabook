@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://mediabook-yog.herokuapp.com' });
+const API = axios.create({ baseURL: 'https://mediabook-yog.onrender.com' });
 
 API.interceptors.request.use((req) => {
   if (localStorage.getItem('profile')) {
